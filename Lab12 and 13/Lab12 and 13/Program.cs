@@ -8,6 +8,7 @@ namespace Lab12_and_13
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("I made this change.Hello Git!");
+            Console.WriteLine("I made this change on new my_branch.Hello Git!");
         }
     }
 }
